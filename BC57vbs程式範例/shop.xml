@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="BIG5"?>
+<shop>
+  <shohin>
+    <bango>1234</bango>
+    <shohinmei>超強效能電腦</shohinmei>
+    <kakaku>19800</kakaku>
+  </shohin>
+  <shohin>
+    <bango>5678</bango>
+    <shohinmei>手錶</shohinmei>
+    <kakaku>24800</kakaku>
+  </shohin>
+</shop>

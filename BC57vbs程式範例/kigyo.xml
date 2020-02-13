@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="BIG5"?>
+
+<!DOCYTPE mydata [
+    <!ELEMENT mydata (company+)>
+    <!ELEMENT company (name, address, employee)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT address (#PCDATA)>
+    <!ELEMENT employee (#PCDATA)>
+]>
+    
+<mydata>
+  <company>
+    <name>日經BP社</name>
+    <address>東京都千代田區</address>
+    <employee>1000</employee>
+  </company>
+  <company>
+    <name>博碩文化</name>
+    <address>台北縣汐止市</address>
+    <employee>200</employee>
+  </company>
+</mydata>
